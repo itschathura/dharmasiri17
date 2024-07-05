@@ -14,11 +14,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ph3onix17&theme=tokyonight)
 
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/tn8tAaDBWu4AAAAd/aki-and-pawpaw-thinking.gif"  />
-</div>
-
-###
-###
+ <img height="200" src="https://media1.tenor.com/m/tn8tAaDBWu4AAAAd/aki-and-pawpaw-thinking.gif"  />
 
 
