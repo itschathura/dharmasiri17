@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋🌍, I'm Chathura Mahesh</h1>
+<h1 align="center">I'm Chathura Mahesh</h1>
 <h3 align="center">Gamer, editor and designer from Kandy LK</h3>
 
 - 🌱 I’m currently learning **ReactJs, Python & Java**
@@ -14,6 +14,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ph3onix17&theme=tokyonight)
 
- <img height="200" src="https://media1.tenor.com/m/tn8tAaDBWu4AAAAd/aki-and-pawpaw-thinking.gif"  />
-
-
+ <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
